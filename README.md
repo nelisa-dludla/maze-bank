@@ -2,6 +2,8 @@
 
 Maze Bank is a simple command-line interface (CLI) program written in Go for simulating banking operations like deposits, withdrawals, and statement generation. It utilizes SQLite for database storage. The name "Maze Bank" was inspired by the bank in GTA V.
 
+![Maze Bank Welcome Menu](https://i.imgur.com/iCBz4gV.png)
+
 ## Features
 
 - **User Registration:** Users can register using their email and password.
